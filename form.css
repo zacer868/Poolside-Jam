@@ -30,6 +30,13 @@ body {
   font-weight: 500;
   position: relative;
 }
+
+.container .sub-title {
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+}
+
 .container .title::before {
   content: "";
   position: absolute;
