@@ -72,7 +72,7 @@ form .input-box span.details {
 }
 .user-details .input-box input:focus,
 .user-details .input-box input:valid {
-  border-color: #9b59b6;
+  border-color:#FAD961;
 }
 form .gender-details .gender-title {
   font-size: 20px;
